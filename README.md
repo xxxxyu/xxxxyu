@@ -29,4 +29,4 @@ Feel free to email me at [lixiangy22@mails.tsinghua.edu.cn](mailto:lixiangy22@ma
 
 [清华大学智能产业研究院 (AIR, THU)](https://air.tsinghua.edu.cn/)
 
-[清华大学电子系学生科协(EESAST)](https://eesast.com/)
+[清华大学电子系学生科协 (EESAST)](https://eesast.com/)
