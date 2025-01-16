@@ -11,22 +11,12 @@ Hi there 👋
   - Previous work: [FlexNN (MobiCom 2024)](https://dl.acm.org/doi/10.1145/3636534.3649391).
 - I am currently working on the efficient deployment of LLMs on mobile/edge devices.
 
-Feel free to email me at [lixiangy22@mails.tsinghua.edu.cn](mailto:lixiangy22@mails.tsinghua.edu.cn) for questions/discussions/collaboration.
+Feel free to email: [lixiangy22@mails.tsinghua.edu.cn](mailto:lixiangy22@mails.tsinghua.edu.cn)
 
 ## Links
 
-### Personal
+[Blog](https://xxxxyu.github.io/blog)
 
-[My Blog (TODO)](https://xxxxyu.github.io)
+[Academic Homepage](https://xxxxyu.github.io/academic)
 
-[My Academic Homepage](https://xxxxyu.github.io/academic/)
-
-[My Google Scholar](https://scholar.google.com/citations?user=IjoWeIMAAAAJ&hl=en)
-
-### Teams & Organizations
-
-[Mobile LLM Team](https://github.com/MobileLLM)
-
-[清华大学智能产业研究院 (AIR, THU)](https://air.tsinghua.edu.cn/)
-
-[清华大学电子系学生科协 (EESAST)](https://eesast.com/)
+[Google Scholar](https://scholar.google.com/citations?user=IjoWeIMAAAAJ)
