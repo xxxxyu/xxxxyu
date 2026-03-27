@@ -3,7 +3,7 @@
 Be open to changes, and learn from the best.
 
 - 4th year Ph.D. candidate at the Institute for AI Industry Research (AIR), Tsinghua University.
-  - Advised by Prof. [Yunxin Liu（刘云新）](https://yunxinliu.github.io), working closely with Prof. [Ting Cao（曹婷）](https://tingcao952.github.io).
+  - Advised by [Prof. Yunxin Liu（刘云新）](https://yunxinliu.github.io), working closely with [Prof. Ting Cao（曹婷）](https://tingcao952.github.io).
 - Received my B.E. degree from the Department of Electronic Engineering (EE), Tsinghua Univeristy in 2022.
 - **Interested in on-device and physical AI. Previous works focused on system efficiency:**
   - *OxyGen*: unified KV cache management for multi-task VLA inference. [[paper]](https://arxiv.org/abs/2603.14371) [[code]](https://github.com/air-embodied-brain/OxyGen)
