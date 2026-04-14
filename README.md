@@ -20,6 +20,4 @@ Looking for opportunities in Embodied AI & AI Infra. Feel free to email me: [lix
 
 - 小红书：Xyu（3612640537）
 
-- [Academic Homepage](https://xxxxyu.github.io/academic)
-
-- [Personal Blog](https://xxxxyu.github.io/blog)
+- [Homepage](https://xxxxyu.github.io)
