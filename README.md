@@ -1,4 +1,4 @@
-# Hi, I'm Xiangyu（李翔宇）
+# Hi, I'm Xiangyu Li（李翔宇）
 
 Be open to changes, and learn from the best.
 
@@ -14,10 +14,13 @@ Be open to changes, and learn from the best.
 
 Looking for opportunities in Embodied AI & AI Infra. Feel free to email me: [lixiangy22@mails.tsinghua.edu.cn](mailto:lixiangy22@mails.tsinghua.edu.cn).
 
+## News
+
+- **[May. 2026]** [Vec-LUT](https://arxiv.org/abs/2512.06443) is selected as *featured paper* for MobiSys 2026 ([On-Device AI Session](https://www.sigmobile.org/mobisys/2026/program/#session-7-on-device-ai)).
+- **[May. 2026]** [OxyGen](https://github.com/air-embodied-brain/OxyGen) extends PyTorch backend (previously JAX-only) for on-board deployment (e.g., Jetson AGX Thor).
+
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=IjoWeIMAAAAJ)
-
-- 小红书：Xyu（3612640537）
-
 - [Homepage](https://xxxxyu.github.io)
+- 小红书：Xyu（3612640537）
