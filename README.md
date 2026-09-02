@@ -6,16 +6,14 @@ I work on **on-device AI** and **embodied AI**, with a current focus on efficien
 
 ## Selected work
 
-### Lead work
+**Lead work**
 
-- [**Cosmos Lite**](https://github.com/xxxxyu/cosmos-lite) **[WIP]** — quantized deployment of Cosmos 3 robot policies on a single 24 GB GPU.
-- [**ActProbe**](https://github.com/air-embodied-brain/actprobe) **[WIP]** — action-space probing for early failure detection of generative robot policies.
-- [**OxyGen**](https://github.com/air-embodied-brain/OxyGen) — unified KV cache management for multi-task VLA inference.
-- [**Vec-LUT**](https://github.com/OpenBitSys/vlut.cpp) (**MobiSys 2026 Best Paper Award Runner-Up**) — parallel ultra-low-bit LLM inference on edge devices.
-- [**FlexNN**](https://github.com/xxxxyu/FlexNN) (**MobiCom 2024**) — memory-adaptive DNN inference on edge devices.
+- [**Cosmos Lite**](https://github.com/xxxxyu/cosmos-lite): Quantized deployment of Cosmos 3 robot policies on a single 24 GB GPU.
+- [**OxyGen**](https://github.com/air-embodied-brain/OxyGen): Unified KV cache management for multi-task VLA inference.
+- [**Vec-LUT**](https://github.com/OpenBitSys/vlut.cpp) (**MobiSys 2026 Best Paper Award Runner-Up**): Parallel ultra-low-bit LLM inference on edge devices.
 
-### Selected collaborations
+**Collaborations**
 
-- [**Zeva**](https://github.com/air-embodied-brain/Zeva) — in-context causal learning for generalizable embodied manipulation.
-- [**Zetta ζ**](https://github.com/air-embodied-brain/Zetta-Embodiment) — a closed-loop embodied harness for self-evolving physical intelligence.
-- [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) — portable inference for embodied AI models on heterogeneous robots.
+- [**Zeva**](https://github.com/air-embodied-brain/Zeva): In-context causal learning for generalizable embodied manipulation.
+- [**Zetta ζ**](https://github.com/air-embodied-brain/Zetta-Embodiment) (**668 stars**): A closed-loop embodied harness for self-evolving physical intelligence.
+- [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) (**154 stars**): Portable inference for embodied AI models on heterogeneous robots.
