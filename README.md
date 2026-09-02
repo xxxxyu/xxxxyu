@@ -8,9 +8,10 @@ I work on **on-device AI** and **embodied AI**, with a current focus on efficien
 
 **Lead work**
 
-- [**Cosmos Lite**](https://github.com/xxxxyu/cosmos-lite): Quantized deployment of Cosmos 3 robot policies on a single 24 GB GPU.
+- [**Cosmos Lite**](https://github.com/xxxxyu/cosmos-lite): Efficient inference for Cosmos 3 robot policies, from on-device serving to parallel simulation rollout.
 - [**OxyGen**](https://github.com/air-embodied-brain/OxyGen): Unified KV cache management for multi-task VLA inference.
 - [**Vec-LUT**](https://github.com/OpenBitSys/vlut.cpp) (**MobiSys 2026 Best Paper Award Runner-Up**): Parallel ultra-low-bit LLM inference on edge devices.
+- [**FlexNN**](https://github.com/xxxxyu/FlexNN) (**MobiCom 2024**): Memory-adaptive DNN inference on edge devices.
 
 **Collaborations**
 
