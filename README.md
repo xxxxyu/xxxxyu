@@ -9,12 +9,12 @@ I work on **on-device AI** and **embodied AI**, with a current focus on efficien
 **Lead work**
 
 - [**Cosmos Lite**](https://github.com/xxxxyu/cosmos-lite): Efficient inference for Cosmos 3 robot policies, from on-device serving to parallel simulation rollout.
-- [**OxyGen**](https://github.com/air-embodied-brain/OxyGen): Unified KV cache management for multi-task VLA inference.
+- [**OxyGen**](https://github.com/air-embodied-brain/OxyGen) (**NeurIPS 2026**): Unified KV cache management for multi-task VLA inference.
 - [**Vec-LUT**](https://github.com/OpenBitSys/vlut.cpp) (**MobiSys 2026 Best Paper Award Runner-Up**): Parallel ultra-low-bit LLM inference on edge devices.
 - [**FlexNN**](https://github.com/xxxxyu/FlexNN) (**MobiCom 2024**): Memory-adaptive DNN inference on edge devices.
 
 **Collaborations**
 
 - [**Zeva**](https://github.com/air-embodied-brain/Zeva): In-context causal learning for generalizable embodied manipulation.
-- [**Zetta ζ**](https://github.com/air-embodied-brain/Zetta-Embodiment) (**668 stars**): A closed-loop embodied harness for self-evolving physical intelligence.
-- [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) (**154 stars**): Portable inference for embodied AI models on heterogeneous robots.
+- [**Zetta ζ**](https://github.com/air-embodied-brain/Zetta-Embodiment) (**1k+ stars**): A closed-loop embodied harness for self-evolving physical intelligence.
+- [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) (**100+ stars**): Portable inference for embodied AI models on heterogeneous robots.
