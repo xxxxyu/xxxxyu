@@ -2,7 +2,7 @@
 
 I'm a 5th-year Ph.D. candidate at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), advised by [Prof. Yunxin Liu](https://yunxinliu.github.io) and working closely with [Prof. Ting Cao](https://tingcao952.github.io). I received my B.E. in Electronic Engineering from Tsinghua University in 2022.
 
-I work on **on-device AI** and **embodied AI**, with a current focus on efficient deployment of embodied foundation models (VLAs and WAMs) and self-evolving physical intelligence. [Homepage](https://xxxxyu.github.io) · [小红书 Rednote](https://www.xiaohongshu.com/user/profile/65339c5b000000002b001b29) (reaching 1k followers soon 😆)
+I work on **on-device AI** and **embodied AI**, with a current focus on efficient deployment of embodied foundation models (VLAs and WAMs) and self-evolving physical intelligence. [Homepage & blog](https://xxxxyu.github.io) · [小红书 Rednote](https://www.xiaohongshu.com/user/profile/65339c5b000000002b001b29) (reaching 1k followers soon 😆)
 
 ## Selected work
 
