@@ -1,8 +1,10 @@
 # Hi, I'm Xiangyu Li (李翔宇) 👋
 
-I'm a 5th-year Ph.D. candidate at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), advised by [Prof. Yunxin Liu](https://yunxinliu.github.io) and working closely with [Prof. Ting Cao](https://tingcao952.github.io). I received my B.E. in Electronic Engineering from Tsinghua University in 2022.
+I'm a 5th-year Ph.D. candidate at [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn), advised by [Prof. Yunxin Liu](https://yunxinliu.github.io), working closely with [Prof. Ting Cao](https://tingcao952.github.io). I received my B.E. in Electronic Engineering from Tsinghua University in 2022. I was at [EESAST](https://eesast.com/) and [NICS-EFC](https://nicsefc.ee.tsinghua.edu.cn).
 
-I work on **on-device AI** and **embodied AI**, with a current focus on efficient deployment of embodied foundation models (VLAs and WAMs) and self-evolving physical intelligence. [Homepage & blog](https://xxxxyu.github.io) · [小红书 Rednote](https://www.xiaohongshu.com/user/profile/65339c5b000000002b001b29) (reaching 1k followers soon 😆)
+My research interest has developed from **on-device AI** to **embodied AI**. I currently work on efficient deployment of embodied foundation models (VLAs and WAMs) and self-evolving physical intelligence.
+
+[Homepage (news, blog)](https://xxxxyu.github.io) · [Google Scholar](https://scholar.google.com/citations?user=IjoWeIMAAAAJ) · [Zhihu 知乎](https://www.zhihu.com/people/xiangyuli) · [Rednote 小红书](https://www.xiaohongshu.com/user/profile/65339c5b000000002b001b29) (looking forward to 1k followers 😆)
 
 ## Selected work
 
